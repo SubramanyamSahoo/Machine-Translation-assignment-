@@ -7,7 +7,9 @@ Fluency: The degree of adherence to the target text and target language norms, r
 
 
 Rating Scale
+
 a) Adequacy  :  All Meaning 5 ; Most Meaning 4 ; Much Meaning 3; Little Meaning 2;  None 1.
+
 b) Fluency  :    Flawless Language 5;  Good Language 4;  Non-native Language 3;  Disfluent Language 2;  Incomprehensible 1.
 
 
